@@ -10,8 +10,6 @@ I started this in 2018 and made some final updates in 2021. It's a tiny handheld
 
 There aren't any build instructions apart from some old de-listed YouTube video's (links below). These have terrible sound quality.
 
-Instructables - Tiny Joypad Variant https://www.instructables.com/Tiny-Joypad-Variant
-
 Part 1 : https://www.youtube.com/watch?v=ns1UM-4Dz_Q  
 Part 2 : https://www.youtube.com/watch?v=F9MddI5iPQI  
 Part 3 : https://www.youtube.com/watch?v=mJaZUmpbrLw  
