@@ -1,5 +1,6 @@
 
-![3264651531742688769](https://github.com/user-attachments/assets/7cff9c97-e50b-4f6b-9c40-fdb33f0fad5e)
+![3264651531742688769](https://github.com/user-attachments/assets/36f230b3-397b-4d01-a777-168e74b7b7e9)
+
 
 # Tiny Joypad Variant
 
