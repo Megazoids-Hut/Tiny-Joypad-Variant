@@ -1,0 +1,14 @@
+Games by : Daniel Champagne (https://www.tinyjoypad.com) 
+         & Andy Jackson (https://github.com/andyhighnumber/Attiny-Arduino-Games )
+
+Changes made to the original files for use with Tiny Joypad Variant 
+(https://hackaday.io/project/159741-tiny-joypad-variant)
+*See the ino files for more details on any changes*
+------------------------------------------------------ 
+Frogger (Modified by Billy Cheung 2018 & Megazoid 2021)
+Tetris (Modified by Daniel Champagne 2018 & Megazoid 2021)
+Tinypacman (Modified by Megazoid 2021)
+TinyArkanoid (Modified by Megazoid 2021)
+
+Tiny_Invaders V3.1 - No changes
+Tiny-bomber v1.3   - No changes

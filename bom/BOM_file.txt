@@ -1,0 +1,23 @@
+Supplies
+
+    1 x 0.96" 128X64 OLED LED Display Module IIC I2C White or Blue. (VCC-GND-SCL-SDA pin configuration)
+    1 × Battery Holder CR2032/2025 Through-hole Mount Manufacturers No: BAT-HLD-001-THM
+    1 × 4 Pin Single Row 2.54mm Pitch Straight Pin Male Headers
+    1 × CR2032 Battery
+    1 × PCBs & 3D printed case - see "files" for the downloads
+    2 × 5 Pin Single Row 2.54mm Pitch Right Angle Male Headers
+    1 × Thick Film Resistor - SMD 10 kOhms Case Code - in: 0805
+    2 × Thick Film Resistors - SMD 22 kOhms Case Code - in: 0805
+    2 × Thick Film Resistors - SMD 33 kOhms Case Code - in: 0805
+    2 × Thick Film Resistors - SMD 88 kOhms Case Code - in: 0805 (I actually used 88.7K.... nearest available value)
+    1 × PUI Audio Speaker 3V 2730Hz 85dBA Manufacturers No: AT-0927-TT-6-R
+    1 × SparkFun Switch Manufacturers No: COM-10860
+    8 × M2 - 10mm Allen Bolt Socket Cap Screws
+    1 × SparkFun Joystick (5-way Tactile Switch ) Manufacturers No: COM-10063
+    1 × 6x6mm Momentary Tactile Switch - Height: 9.5mm Termination Style Gull Wing if possible.
+    1 × 5 Pin Single Row 2.54mm Pitch Right Angle Female Header Socket
+    4 × 4 Pin Single Row 2.54mm Pitch Straight Female Header Socket
+    4 × 2 Pin x 2 Row 2.54mm Pitch Straight Female Header Socket
+    1 × 2 Pin x 2 Row 2.54mm Pitch Straight Pin Male Headers
+    6 × ATTINY85-20SU Microprocessors,
+    6 × 3mm diameter x 1mm thick N35 Neodymium Magnets
