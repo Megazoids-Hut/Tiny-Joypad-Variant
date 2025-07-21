@@ -13,3 +13,5 @@ There aren't any build instructions apart from some old de-listed YouTube video'
 Part 1 : https://www.youtube.com/watch?v=ns1UM-4Dz_Q  
 Part 2 : https://www.youtube.com/watch?v=F9MddI5iPQI  
 Part 3 : https://www.youtube.com/watch?v=mJaZUmpbrLw  
+
+Small changes were made to the game code for use with Tiny Joypad Variant. The game are also old versions, and do not represent Daniel's C's current Tiny Joypad games. Please refer to https://www.tinyjoypad.com for the current original game code, and schematics for Tiny Joypad.
